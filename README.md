@@ -114,3 +114,12 @@ git push origin master
 assets
 ```
 
+Публикуем наш пакет командой:
+```bash
+npm publish
+```
+
+И если вы все сделали верно, то получите такой вывод:
+```bash
+<your-package-name>@1.0.0
+```
