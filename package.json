@@ -1,24 +1,25 @@
 {
-	"name": "cmi",
+	"name": "nicm",
 	"version": "0.0.1",
-	"main": "src/cmi.js",
+	"main": "src/smic.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/luamoris/cmi.git"
+		"url": "git+https://github.com/luamoris/smic.git"
 	},
 	"keywords": [
 		"node",
 		"menu",
 		"config",
 		"package",
-		"console"
+		"console",
+		"smic"
 	],
 	"author": "Iosif Isachko <luamoris> (https://github.com/luamoris)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/luamoris/cmi/issues"
+		"url": "https://github.com/luamoris/smic/issues"
 	},
-	"homepage": "https://github.com/luamoris/cmi#readme",
+	"homepage": "https://github.com/luamoris/smic#readme",
 	"dependencies": {
 		"chalk": "4.1.1"
 	}

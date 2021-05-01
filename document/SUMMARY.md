@@ -1,3 +1,3 @@
-# SUMMARY CMI
+# SUMMARY SMIC
 
 Currently under development ...

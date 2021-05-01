@@ -5,11 +5,11 @@ const chalk = require('chalk');
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-class CMI {
+class SMIC {
 	constructor() {
-		this.cmi = null;
+		this.menu = null;
 	}
 }
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-module.exports = CMI;
+module.exports = SMIC;
