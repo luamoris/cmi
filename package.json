@@ -1,25 +1,26 @@
 {
-  "name": "package-publish-instruction",
-  "version": "1.0.0",
-  "description": "Instructions for publishing a library (package) with versioning.",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luamoris/package-publish-instruction.git"
-  },
-  "keywords": [
-    "package",
-    "publish",
-    "instruction"
-  ],
-  "author": "Iosif Isachko <luamoris> (https://github.com/luamoris)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/luamoris/package-publish-instruction/issues"
-  },
-  "homepage": "https://github.com/luamoris/package-publish-instruction#readme",
-  "dependencies": {}
+	"name": "cmi",
+	"version": "0.0.1",
+	"private": true,
+	"main": "src/cmi.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/luamoris/cmi.git"
+	},
+	"keywords": [
+		"node",
+		"menu",
+		"config",
+		"package",
+		"console"
+	],
+	"author": "Iosif Isachko <luamoris> (https://github.com/luamoris)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/luamoris/cmi/issues"
+	},
+	"homepage": "https://github.com/luamoris/cmi#readme",
+	"dependencies": {
+		"chalk": "4.1.1"
+	}
 }
