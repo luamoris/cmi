@@ -1,4 +1,4 @@
-# CONFIG MENU INTERFACE smic
+# SELECT MENU INTERFACE CONFIG
 
 Currently under development ...
 
