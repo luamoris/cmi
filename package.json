@@ -2,6 +2,9 @@
 	"name": "smic",
 	"version": "0.0.1",
 	"main": "src/smic.js",
+	"scripts": {
+		"start": "node app.js"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/luamoris/smic.git"
@@ -21,6 +24,12 @@
 	},
 	"homepage": "https://github.com/luamoris/smic#readme",
 	"dependencies": {
-		"chalk": "4.1.1"
+		"chalk": "4.1.1",
+		"keypress": "0.2.1"
+	},
+	"devDependencies": {
+		"eslint": "7.25.0",
+		"eslint-config-airbnb-base": "14.2.1",
+		"eslint-plugin-import": "2.22.1"
 	}
 }

@@ -1,3 +1,6 @@
 # Folders
 document
 assets
+
+# Files
+.eslintrc.json
